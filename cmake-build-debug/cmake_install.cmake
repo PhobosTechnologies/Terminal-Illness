@@ -1,4 +1,4 @@
-# Install script for directory: /home/dkm/CLionProjects/TerminaIllness
+# Install script for directory: /home/dkm/CLionProjects/Terminal Illness
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/dkm/CLionProjects/TerminaIllness/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/dkm/CLionProjects/Terminal Illness/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

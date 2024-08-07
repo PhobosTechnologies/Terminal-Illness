@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/dkm/CLionProjects/TerminaIllness/cmake-build-debug",
-		"source" : "/home/dkm/CLionProjects/TerminaIllness"
+		"build" : "/home/dkm/CLionProjects/Terminal Illness/cmake-build-debug",
+		"source" : "/home/dkm/CLionProjects/Terminal Illness"
 	},
 	"version" : 
 	{

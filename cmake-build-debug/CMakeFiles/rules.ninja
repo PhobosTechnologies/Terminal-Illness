@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /home/dkm/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake --regenerate-during-build -S/home/dkm/CLionProjects/TerminaIllness -B/home/dkm/CLionProjects/TerminaIllness/cmake-build-debug
+  command = /home/dkm/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake --regenerate-during-build -S"/home/dkm/CLionProjects/Terminal Illness" -B"/home/dkm/CLionProjects/Terminal Illness/cmake-build-debug"
   description = Re-running CMake...
   generator = 1
 
